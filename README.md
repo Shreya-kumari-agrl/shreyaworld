@@ -1,2 +1,2 @@
-# shreyaworld
-My first project on Github
+# shreya
+This is my first repository on Github.
